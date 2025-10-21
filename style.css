@@ -77,6 +77,13 @@ button {
   margin: 0 auto 0;
 }
 
+.todo__main-heading {
+  margin: 0;
+  height: 0;
+  width: 0;
+  opacity: 0;
+}
+
 .todo__heading {
   color: #333;
   font-weight: 700;
